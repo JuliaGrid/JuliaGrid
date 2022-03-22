@@ -21,7 +21,7 @@ Here are some ideas to get you started:
    </div>
 
   <div>
-    <a href="https://hh.ru/resume/467175abff087547450039ed1f586665754835L">
+    <a href="https://hh.ru/resume/467175abff087547450039ed1f586665754835">
       <img src="https://img.shields.io/badge/Head-Hunter-red?style=for-the-badge" />
     </a>
     <a href="https://t.me/JuliaGrid">
