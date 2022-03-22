@@ -18,16 +18,11 @@ Here are some ideas to get you started:
 <div id="header" align="center">
   <div>
     <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="300"/>
-   </div>
-
-  <div>
-    <a href="https://hh.ru/resume/467175abff087547450039ed1f586665754835">
-      <img src="https://img.shields.io/badge/Head-Hunter-red?style=for-the-badge" />
-    </a>
-    <a href="https://t.me/JuliaGrid">
-      <img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge" />
-    </a>
   </div>
+
+  [![HH](https://img.shields.io/badge/Head-Hunter-red?style=for-the-badge)](https://hh.ru/resume/467175abff087547450039ed1f586665754835)
+  [![TM](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge)](https://t.me/JuliaGrid)
+  
 </div>
 
 ### Hi there 👋
@@ -38,15 +33,31 @@ Here are some ideas to get you started:
 
 ---
 
+### :boxing_glove: Trainings :
+  <div>
+    <a href="https://ru.hexlet.io/u/juliagrid">
+      <img src="https://img.shields.io/badge/-Hexlet-black?style=for-the-badge&logo=hexo&logoColor=white" />
+    </a>
+  </div>
+  <div>
+    <a href="https://www.codewars.com/users/JuliaGrid">
+      <img src="https://img.shields.io/badge/-Codewars-black?style=for-the-badge&logo=codewars" />
+    </a>
+  </div>
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="Graphql" alt="Graphql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+ 
 </div>
 
 ---
